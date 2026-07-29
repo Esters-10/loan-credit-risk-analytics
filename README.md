@@ -90,7 +90,7 @@ The project followed a structured end-to-end analytics workflow:
 ### 1️⃣ Executive Loan Portfolio Overview
 Provides a high-level overview of the lending portfolio, including portfolio value, borrower distribution, expected interest income, loan composition, and overall lending performance.
 
-![Executive Loan Portfolio Overview](images/executive_loan_portfolio_overview.png)
+![Executive Loan Portfolio Overview](images/lending_portfolio_dashboard.png)
 
 ### 2️⃣ Loan Default Risk Dashboard
 
